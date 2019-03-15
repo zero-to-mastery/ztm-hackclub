@@ -1,0 +1,22 @@
+header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-around;
+    margin: 0 30px;
+   align-items: center;
+}
+
+header p {
+    font-size: 20px;
+    text-align: center;
+}
+
+header svg {
+  margin: 0 auto;
+}
+
+header div {
+    display: flex;
+    justify-content: space-around
+}
+
